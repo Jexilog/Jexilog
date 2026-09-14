@@ -1,4 +1,19 @@
-<h4 align="left">🎓️ BSIT Senior student<br>🔎 Finding my expertise that are related to my applied skills.<br><br>Hello everyone!<br>I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am building a production-ready API with NestJS and PostgreSQL.<br><br>"If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick."<br><br>Hala Madrid!</h4>
+<h4 align="left">
+  🎓️ BSIT Senior student
+  <br>
+  🔎 Finding my expertise that are related to my applied skills.
+  <br>
+  <br>
+  Hello everyone!
+  <br>
+  I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am learning and building a production-ready API with NestJS and PostgreSQL.
+  <br>
+  <br>
+  "If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick."
+  <br>
+  <br>
+  Hala Madrid!
+</h4>
 
 ###
 
@@ -42,9 +57,6 @@
   </a>
   <a href="https://www.facebook.com/jeckho.avio.5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-  <a href="t.me/tragicscence" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://mail.google.com/mail/u/0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
