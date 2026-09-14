@@ -9,7 +9,7 @@
   I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am learning and building a production-ready API with NestJS and PostgreSQL.
   <br>
   <br>
-  "If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick."
+  "Embracing mistakes as lessons and using them to become better every day."
   <br>
   <br>
   Hala Madrid!
