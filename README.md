@@ -1,4 +1,4 @@
-<h4 align="left">🎓️ BSIT Sophomore student<br>🔎 Finding my expertise that are related to my applied skills.<br><br>Hello everyone!<br>I am Justine Jeckho A. Avio a 4th Year Student from Cavite State University - Imus Campus. I am building a production-ready API with NestJS and PostgreSQL.<br><br>"If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick."<br><br>Hala Madrid!</h4>
+<h4 align="left">🎓️ BSIT Senior student<br>🔎 Finding my expertise that are related to my applied skills.<br><br>Hello everyone!<br>I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am building a production-ready API with NestJS and PostgreSQL.<br><br>"If I don’t have to do it, I won’t. If I have to do it, I’ll make it quick."<br><br>Hala Madrid!</h4>
 
 ###
 
@@ -23,7 +23,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  
 </div>
 
 ###
