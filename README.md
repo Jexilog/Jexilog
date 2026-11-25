@@ -6,7 +6,7 @@
   <br>
   Hello everyone!
   <br>
-  I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am learning and building a production-ready API with NestJS and PostgreSQL.
+  I am Justine Jeckho A. Avio from Cavite State University - Imus Campus. I am learning and building a production-ready API with NestJS and MySQL.
   <br>
   <br>
   "Embracing mistakes as lessons and using them to become better every day."
